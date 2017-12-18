@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robkano/hexlet-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robkano/hexlet-basics/issues"
+  },
+  "homepage": "https://github.com/robkano/hexlet-basics#readme"
+}
